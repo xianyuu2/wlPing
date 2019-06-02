@@ -1,7 +1,6 @@
 ﻿#include "pch.h"
 #include <iostream>
 
-阿斯顿把数据库的bask的 
 USHORT CPing::s_usPacketSeq = 0;
 
 CPing::CPing() :m_szICMPData(NULL), m_bIsInitSucc(FALSE)
